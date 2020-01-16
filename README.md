@@ -423,7 +423,7 @@ Results:
     This challenge requires Proof-of-Work (PoW). We have already finished the code for you. Please see pow.balsnctf.com
     ```
 - Author: shw
-- Link:
+- Link: https://github.com/x9453/balsn-ctf-2019
 
 ### Creativity
 - Points: 1000
@@ -439,7 +439,7 @@ Results:
     This challenge requires Proof-of-Work (PoW). We have already finished the code for you. Please see pow.balsnctf.com
     ```
 - Author: shw
-- Link:
+- Link: https://github.com/x9453/balsn-ctf-2019
 
 ## Crypto
 ### collision
